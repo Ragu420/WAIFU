@@ -31,28 +31,28 @@
       "LOGGER_ID": {
          "description": " Support Group's ID And Please Add ur Bot in That group.. with administrator rights",
          "required": true,
-         "value": "-1001929735324"
+         "value": "-1002118441878"
       },
       "SUDO_USERS": {
          "description": "Set your best friends id as sudo.",
          "required": true,
-         "value": "6922271843" 
+         "value": "6896339221" 
       },
       "BOT_USERNAME": {
          "description": "Enter your bot username.",
          "required": true,
-         "value": "Nykaa_Anime_Bot" 
+         "value": "Cinderellachat_bot" 
       },
       "SUPPORT_CHAT": {
          "description": "your bots support chat name without @ or chat id.",
          "required": true,
-         "value": "THE_FRIENDZ" 
+         "value": "Fighter_Boys_121" 
       },
       
       "OWNER_ID": {
          "description": "Id of bot owner",
          "required": true,
-         "value": "6922271843" 
+         "value": "6914979266" 
       },
      "MONGO_URL": {
          "description": "Add a Mongodb url to store data",
@@ -67,7 +67,7 @@
       "UPDATE_CHAT": {
          "description": "Update Channel Username Without @",
          "required": true,
-         "value": "Nykaa_Update" 
+         "value": "Fighter_Boys_121" 
      },
       
       "API_ID": {
@@ -78,7 +78,7 @@
       "CHANNEL_ID": {
          "description": "Your Channel Id.. Where bot will Send.. all Ur Uploaded characters with details",
          "required": true,
-         "value": "-1001852000392" 
+         "value": "-1002118441878" 
       },
       "API_HASH": {
          "description": "Your Api HASH... Don't know what is this.. then searchon Google",
